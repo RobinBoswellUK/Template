@@ -1,0 +1,63 @@
+Document Name
+
+LoremIpsum.pdf
+
+
+Tables
+
+Table A1: Eum ei quod cibo neglegentur, erant apeirian repudiare ut vis.
+
+Table 1: Stet iisque facilis ut sit, ut aperiri eruditi vel, sea.
+
+Table 2: Sit te hinc utamur, cu vide ubique scaevola vis vide
+
+
+Figures
+
+Figure A1: In cum electram quaerendum, suavitate molestiae cum in. Et quas.
+
+Figure 1: Audiam commune dignissim qui ea, novum recteque at quo, volumus.
+
+Figure 2: Mundi sonet eu quo, id eum essent pertinax. At nusquam.
+
+
+DMAIC
+
+
+--- Title - Contents
+
+     Abstract  
+     Contents 
+
+     <b>Excecutive Summary</b>
+
+1.   <b>Introduction</b>
+
+2.   <b>Data Review</b>
+2.1  Eu sed porro debet, docendi atomorum
+2.2  Est ei paulo corrumpit interesset
+2.3  Malis utroque volumus sit no. Ut has.
+
+3.   <b>Analysis</b>
+3.1  Eu eum odio expetendis, sit no erroribus.
+3.2  Velit ocurreret reformidans ut eam, sumo. 
+
+===============================
+
+        BIN
+
+===============================
+
+---Style Guide ---
+<h1> Heading, Display</h1>
+<h2> Heading, Main</h2>
+<p>Paragraph</p>
+<h3>Heading, Sub</h3>
+<p>Paragraph</p>
+--- &emsp;&emsp;&emsp;&emsp; ---<br><br>
+
+
+
+
+
+
