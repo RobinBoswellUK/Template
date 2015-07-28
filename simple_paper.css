@@ -1,0 +1,134 @@
+    .procedure1 {
+	background-color:white;
+	margin:0; padding:1em;
+    }
+
+
+   .menu {
+	color:blue;
+    }
+    .red {
+	color:red;
+    }
+    dfn { 
+	color:green;
+	font-style:normal;
+ }
+    .green { 
+	color:green;
+	font-style:normal;
+ }
+
+/* default widths */
+img {
+    padding: 0.1em;
+    width: 100%;
+    outline-width: 2px;
+    outline-color: gray;
+    outline-style: solid;
+    margin-top: 1em;
+}
+.fullWidth {
+        width: 32em;
+}
+.pageBreak {
+    page-break-before: always; 
+}
+
+/*Vertical */
+body, .contents {
+    font-size: 1em;   /* 16px default */
+    line-height: 1.4em;
+    float:left;
+    font-family: 'georgia',sans-serif;
+}
+ .whitespace {
+    margin-top: 2.3em;
+ }
+
+p,h1,h2,h3,h4 {
+        margin: 0;
+}
+
+h1 {
+    font-size:   1.75em;  /* 28 */
+    line-height: 1.36em;  /* 38 */
+}
+h2 {
+    font-size: 1.5em;	/* 24 */
+    line-height: 2em;
+}
+h3 {
+    font-size:     1.0em;
+    margin-top:    0.3em;
+    margin-bottom: 0.2em;
+    font-weight: bold;
+}
+h4 {
+    font-size: 1em;
+}
+
+.captionSize {
+    font-size: 0.75em;
+    line-height: 2em;
+}
+
+figure {
+    margin-left: 1em;
+    margin-right: 1em;
+}
+
+/* Typo */
+h1,h2,h3,h4 {
+text-transform: capitalize;
+}
+p {
+    text-indent: 1em;
+}
+.noIndent {
+    text-indent: 0;
+}
+
+
+figcaption {
+    text-transform: capitalize;
+    text-align: center;
+}
+
+td,th {
+    width: 5em;
+    text-align: right;
+}
+
+table {
+    caption-side: bottom;
+    outline-color: black;
+    outline-style: solid;
+    outline-width: 2px;
+    padding-right: 1em;
+    margin-top: 1em;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+/*abstract */
+.small {
+    width: 33em;
+    margin-left: 42px;;
+    text-indent: 0;
+    text-align: justify;
+}
+
+/*  Fix  */
+
+.narrowColumn {
+    width: 2em;
+    text-align: center;
+}
+.centre { text-align: center; }
+.left {
+    text-align: left;
+}
+
+
+
