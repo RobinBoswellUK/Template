@@ -30,9 +30,11 @@ img {
 }
 .fullWidth {
         width: 32em;
+        margin-left: 4em;
 }
 .pageBreak {
     page-break-before: always; 
+    clear: left;
 }
 
 /*Vertical */
@@ -126,6 +128,7 @@ table {
     text-align: center;
 }
 .centre { text-align: center; }
+
 .left {
     text-align: left;
 }
