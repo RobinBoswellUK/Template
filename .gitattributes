@@ -1,1 +1,2 @@
+# following line forces git archive to make the zip download, have dos friendly carrage returns
 *.txt eol=crlf
